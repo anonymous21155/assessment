@@ -17,5 +17,11 @@
 
 __Objective:__ Run container image from node js app
 
-__Resource:__ 
+__Resource:__ [source repo](https://github.com/anonymous21155/nodejs-app)
+
+**Output**: Created a sample nodejs app with `npm init -y` command, hosted locally, build a docker file and run it locally, also pushed the container image to docker hub
+
+## TASK 4
+
+**Objective**: Deploy the containeraised image to AKS
 
