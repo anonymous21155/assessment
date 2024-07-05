@@ -3,7 +3,7 @@
 ## TASK 1
 **Objective:** Create a Azure VM using ARM template
 
-**Output:** created a json file with resoucrces and paramters for the vm creation. The result is uploaded in the repo [azure-deploy.json](https://github.com/anonymous21155/assessment/blob/main/azure-deploy.json)
+**Output:** created a json file with resoucrces and paramters for the vm creation. The result is uploaded in the repo [azure-deploy.json](https://github.com/anonymous21155/assessment/blob/main/azure-deploy.json). Used __Deploy a custom template__ service from azure portal upload the json and ethe file was succesfully validated for deployment.
 
 ## TASK 2
 
