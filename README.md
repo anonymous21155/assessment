@@ -12,3 +12,10 @@
 **Resource**: [forked repo](https://github.com/anonymous21155/pipelines-java)
 
 **Output:** Forked a java app from github, connected to my project in azure devops organization and successfully build and archived the artifacts.The yaml file is uploaded in the repo [azure-pipeline.yaml](https://github.com/anonymous21155/assessment/blob/main/java-app-azure-pipelines.yml).
+
+## TASK 3
+
+__Objective:__ Run container image from node js app
+
+__Resource:__ 
+
